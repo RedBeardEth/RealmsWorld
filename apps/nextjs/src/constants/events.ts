@@ -13,7 +13,7 @@ export const events: Event[] = [
     type: "play"
   },
   {
-    name: "Pixel Banners Mint",
+    name: "Pixel Banners Mint test",
     description: "Generative Pixel Banners on Starknet.",
     startDate: "2024-03-28",
     endDate: "2024-04-04",
